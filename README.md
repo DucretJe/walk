@@ -1,5 +1,7 @@
 # 🥾 walk
 
+> NOT THE ORIGINAL REPO
+
 <p align="center">
   <br>
   <img src=".github/images/demo.gif" width="600" alt="walk demo">
